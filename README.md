@@ -1,7 +1,7 @@
-# 👋 Olá Meu nome é Henrique Lima 
+# 👋 Olá, Meu nome é Henrique Lima 
 
-🎓 Estudante apaixonado por tecnologia e aprendendo programação.  
-💻 Explorando linguagens, frameworks e boas práticas de desenvolvimento.  
+🎓 Estudante de tecnologia e aprendendo programação.  
+💻 Explorando frameworks e boas práticas de desenvolvimento.  
 📚 Atualmente estudando: Programação em python 
 🚀 Objetivo: me tornar um desenvolvedor capaz de criar projetos úteis e criativos.  
 
@@ -22,7 +22,6 @@
 
 ## 📫 Como falar comigo  
 - 🌐 whatsapp: 11997890849
+- email:limalourdes.208@gmail.com
 
 --- instagram @henrq.2k25
-
-✨ *Esse repositório é parte da minha jornada de aprendizado em programação. Toda contribuição, dica ou feedback é muito bem-vindo!*  
